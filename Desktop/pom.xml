@@ -3,7 +3,7 @@
 
 	<groupId>com.suresoft.qscroll.rtms</groupId>
 	<artifactId>vpes</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>TEST</version>
 	<packaging>war</packaging>
 
 	<name>rtms</name>
